@@ -1,4 +1,4 @@
-# GraphQL, Apollo, Express, Apollo, Sequelize starter
+# GraphQL, Apollo, Node, Express, Sequelize starter
 
 You must have Postgres running on your machine. I use [Postgres App](https://postgresapp.com/). The configuration/credentials can be set in the `server/config/config.json` file.
 
