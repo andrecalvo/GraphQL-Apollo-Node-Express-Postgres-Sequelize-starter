@@ -1,6 +1,6 @@
 # GraphQL, Apollo, Express, Apollo, Sequelize starter
 
-You must have Postgres running on your machine.
+You must have Postgres running on your machine. I use [Postgres App](https://postgresapp.com/). The configuration/credentials can be set in the `server/config/config.json` file.
 
 `yarn install`
 `yarn setup` - This runs 3 other comamnds in the package.json which
@@ -9,4 +9,4 @@ You must have Postgres running on your machine.
 - Runs migrations to create tables for Locations, Categories and their join table.
 - Runs seeds to populate these tables for demo purposes.
 
-`yarn start` - Runs your express server which servers your graphql playground at http://localhost:4000/graphql
+`yarn start` - Runs your express server which servers your graphql playground at [http://localhost:4000/graphql](http://localhost:4000/graphql)
