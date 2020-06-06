@@ -13,7 +13,7 @@
     "start": "nodemon --exec babel-node server/index.js"
   },
   "dependencies": {
-    "apollo-server-express": "^2.1.0",
+    "apollo-server-express": "^2.14.2",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-stage-2": "^6.24.1",
